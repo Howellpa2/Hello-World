@@ -1,3 +1,3 @@
 # Hello-World
 short
-a bit about myself
+a bit myself
